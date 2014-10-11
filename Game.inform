@@ -2,10 +2,11 @@
 
 
 When play begins:
-say "For many years your people have been made to suffer under the rule of King Titus. Though he was once a kind, merciful king, he has since started a great purge of those who practice magic. He has become convinced that all things magical are evil and magic in this world is all but extinct. Yet you were born with this gift...this burden. For the wrong person to see you use magic would mean certain death. You have not yet come to realize the purpose of these powers but in time your power will grow and so will your understanding of how to use it. Your destiny awaits...".
-
-
-The Outer Village is a room. "Your journey is finally reaching its end.  Only one more obstacle
+say "For many years your people have been made to suffer under the rule of King Titus. Though he was once a kind, merciful king, he has since started a great purge of those who practice magic. He has become convinced that all things magical are evil and magic in this word is all but extinct. Yet you were born with this gift...this burden. For the wrong person to see you use magic would mean certain death. You have not yet come to realize the purpose of these powers but in time your power will grow and so will your understanding of how to use it. Your destiny awaits...". 
+ 
+ The Cave Area is a region. 
+ 
+ The Outer Village is a room. It is in the Cave Area. "Your journey is finally reaching its end.  Only one more obstacle
  remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to 
  defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."
  
@@ -13,4 +14,25 @@ The Outer Village is a room. "Your journey is finally reaching its end.  Only on
  
  
  After asking Village Elder about "Advice":
- say "Don't die..."
+ say "Don't die. You thank the Village Elder for his wonderful advice and head north towards the cave."
+ 
+Understand "go north" as "[going directional]"
+
+The  Cave Entrance is a room. It is in the Cave Area. It is north of the Outer Village.
+
+The heavy boulder is a door. It is south of the Main Chamber and north of the Cave Entrance.  Before entering the Main Chamber, try entering the heavy boulder.
+After opening the heavy boulder:
+say "The path behind collapes and is sealed.  There is no way back."
+
+The Main Chamber is a room.  It is in the Cave Area.   "You see a tablet on the wall in front of you.  A staute of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a fireplace near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inahle the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?"
+
+
+The East Chamber is a room. It is in the Cave Area.  It is east of the Main Chamber.  "You notice a shining helmet in the corner of your eye, and a mirror next to it." A mirror is here. The description is "A very dirty mirror, needs to be polished." A helmet is here. The description is "Definitely belongs to the knight in the main chamber.".
+
+Polishing is an action applying to one visible thing.
+Before examining the mirror, try polishing the mirror.
+After polishing mirror:
+say "Damn I look good!".
+
+
+The West Chamger is a room. It is in the Cave Area. It is west of the Main Chamber.  "You notice ginger and edelweiss in the room. Along with a writing on the wall.  It says XYZZY.  Could be the magic word." A edelweiss is here. A ginger is here.
