@@ -35,6 +35,7 @@ Write an interactive fiction game. It may be as deep or shallow as you like, tho
 	WAIT
 	POLISH MIRROR
 	EXAMINE MIRROR
+
 Though other paths to victory are, naturally, preferred. This must be a game with a line-based text parser, not a simple hyperlink game (such as one made with Twine).  The user must type in commands, and the program recognize/interpret/process them.
 
 

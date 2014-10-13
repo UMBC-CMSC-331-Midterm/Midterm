@@ -22,9 +22,9 @@ The  Cave Entrance is a room. It is in the Cave Area. It is north of the Outer V
 
 The heavy boulder is a door. It is south of the Main Chamber and north of the Cave Entrance.  Before entering the Main Chamber, try entering the heavy boulder.
 After opening the heavy boulder:
-say "The path behind collapes and is sealed.  There is no way back."
+say "The path behind collapses and is sealed.  There is no way back."
 
-The Main Chamber is a room.  It is in the Cave Area.   "You see a tablet on the wall in front of you.  A staute of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inahle the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A cauldron is here.  It is a closed openable container. An fire is here. it is a open container. A lit torch is here.
+The Main Chamber is a room.  It is in the Cave Area.   "You see a tablet on the wall in front of you.  A statue of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inhale the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A cauldron is here.  It is a closed openable container. An fire is here. it is a open container. A lit torch is here.
 
 Lighting is an action applying to one thing. Understand the command "light" as something new. Understand "light [something]"  as lighting.
 
@@ -37,11 +37,7 @@ The East Chamber is a room. It is in the Cave Area.  It is east of the Main Cham
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
 After polishing mirror:
-say "Damin I look good!".
+say "Damn, I look good".
 
 
-The West Chamger is a room. It is in the Cave Area. It is west of the Main Chamber.  "You notice ginger and edelweiss in the room. Along with a writing on the wall.  It says XYZZY.  Could be the magic word." A edelweiss is here. A ginger is here. A duck is here. It is edible.
-say "Damn I look good!".
-
-
-The West Chamger is a room. It is in the Cave Area. It is west of the Main Chamber.  "You notice ginger and edelweiss in the room. Along with a writing on the wall.  It says XYZZY.  Could be the magic word." A edelweiss is here. A ginger is here.
+The West Chamber is a room. It is in the Cave Area. It is west of the Main Chamber.  "You notice ginger and edelweiss in the room. Along with a writing on the wall.  It says XYZZY.  Could be the magic word." A edelweiss is here. A ginger is here. A duck is here. It is edible.
