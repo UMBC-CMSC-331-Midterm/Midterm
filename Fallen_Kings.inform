@@ -40,6 +40,7 @@ The East Chamber is a room. It is east of the Main Chamber.  "You notice a shini
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
 After polishing mirror:
-say "Damn, I look good".
+	say "You see a vision in the mirror...";
+	end the story saying "To be continued...".
 
 The West Chamber is a room. It is west of the Main Chamber.  "You notice writing on the wall.  It says XYZZY.  Could be the magic word." A ginger is here. A duck is here. It is edible.
