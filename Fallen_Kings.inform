@@ -5,22 +5,22 @@ say "For many years your people have been made to suffer under the rule of King 
  
 The Kingdom is a region.
 
-The Lonely Dragon Inn is a room. "Your journey is finally reaching its end.  Only one more obstacle remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."  A sword is here. An ancient spellbook is here. 
+The Lonely Dragon Inn is a room. "Your journey is finally reaching its end.  Only one more obstacle remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."  A sword is here. The description is "A sword for heores and legends, made of the finest steel." An ancient spellbook is here. The description is "An ancient book of power.  Remember what your Uncle said."
 
-The Inn door is a door. It is scenery. It is east of the Lonely Dragon Inn and west of the Outer Village. "An old wooden door with a rusty handle. "
+The Inn door is a door. It is scenery. It is east of the Lonely Dragon Inn and west of the Outer Village. "An old wooden door with a rusty handle."
 
  The Outer Village is a room. It is in the Kingdom. "An old village which has not been disturbed, not even during the great purge.  You can feel the magic here, the scent of wolfsbane and nim root fill the stale air as the apothecary makes fresh potions." 
 
-A edelweiss is in the Outer Village. "It appears to be some sort of crystal.  You have never felt so much magic in such a small object before."
+A edelweiss is in the Outer Village. The Description is "It appears to be some sort of crystal.  You have never felt so much magic in such a small object before."
  
  The Village Elder is a man. Village Elder is in the Outer Village. The description of Village Elder is "Old as shit!"
  
  After asking Village Elder about "Advice":
- 	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice and head north towards the cave."
+ 	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice, now you must head up the great mountain towards the cave."
 
 The Fallen Kings is a region. Cave-Area, Main Chamber, East Chamber, and West Chamber are in the Fallen Kings.
 
-The Cave-Area is room.  It is north of the Outer Village. "Surrounded by darkness in the woods of the Fallen Kings you approach the cave entrance.  You sense a powerful magical being nearby but cannot tell if it means you harm or not."
+The Cave-Area is room.  It is above the Outer Village. "Surrounded by darkness in the woods of the Fallen Kings you approach the cave entrance.  You sense a powerful magical being nearby but cannot tell if it means you harm or not."
 
 The Cave Entrance is a door. It is scenery. It is north of the Cave-Area and south of the Main Chamber.
 Before entering the Main Chamber, try entering the Cave Entrance.
