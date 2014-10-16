@@ -18,16 +18,16 @@ A edelweiss is in the Outer Village. "It appears to be some sort of crystal.  Yo
  After asking Village Elder about "Advice":
  	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice, now you must head up the great mountain towards the cave."
 
-The Fallen Kings is a region. Cave-Area, Main Chamber, East Chamber, and West Chamber are in the Fallen Kings.
+The Fallen Kings is a region. Cave-Area, and Main Chamber are in the Fallen Kings.
 
 The Cave-Area is room.  It is above the Outer Village. "Surrounded by darkness in the woods of the Fallen Kings you approach the cave entrance.  You sense a powerful magical being nearby but cannot tell if it means you harm or not."
 
-The Cave Entrance is a door. It is scenery. It is north of the Cave-Area and south of the Main Chamber.
+The Cave Entrance is a door. It is scenery. It is east of the Cave-Area and west of the Main Chamber.
 Before entering the Main Chamber, try entering the Cave Entrance.
 After entering the Cave Entrance:
 	say "The path behind collapses and is sealed.  There is no way back."	
 
-The Main Chamber is a room.  "You see a tablet on the wall in front of you.  A statue of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inhale the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A cauldron is here.  It is a closed openable container. An fire is here. it is a open container. A lit torch is here.
+The Main Chamber is a room.  "You see a tablet on the wall in front of you.  A statue of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inhale the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A cauldron is here.  It is a closed openable container. An fire is here. it is a open container. A lit torch is here. A mirror is here. The description is "A very dirty mirror, needs to be polished.". A ginger is here. A duck is here. It is edible.
 
 Lighting is an action applying to one thing. Understand the command "light" as something new. Understand "light [something]"  as lighting.
 
@@ -39,14 +39,10 @@ After lighting fire:
 
 Inhaling is an action applying to a thing.  Understand "inhale [something] " as inhaling.
 
-Attaching is an action applying to one thing and one visible thing.  Understand the command "attach" as something new.  Understand "attach [something] to [something] " as attaching
-
-The East Chamber is a room. It is east of the Main Chamber.  "You notice a shining helmet in the corner of your eye, and a mirror next to it." A mirror is here. The description is "A very dirty mirror, needs to be polished."
+Attaching is an action applying to one thing and one visible thing.  Understand the command "attach" as something new.  Understand "attach [something] to [something] " as attaching.
 
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
 After polishing mirror:
 	say "You see a vision in the mirror...";
 	end the story saying "To be continued...".
-
-The West Chamber is a room. It is west of the Main Chamber.  "You notice writing on the wall.  It says XYZZY.  Could be the magic word." A ginger is here. A duck is here. It is edible.
