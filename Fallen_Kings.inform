@@ -31,6 +31,12 @@ The Main Chamber is a room.  "You see a tablet on the wall in front of you.  A s
 
 Lighting is an action applying to one thing. Understand the command "light" as something new. Understand "light [something]"  as lighting.
 
+After lighting torch:
+	say "The torch comes to life and it's flames light the way."
+	
+After lighting fire:
+	say "Smoke starts to rise and then flames begin to flicker.  You can feel the heat from the fire start to warm you."
+
 Inhaling is an action applying to a thing.  Understand "inhale [something] " as inhaling.
 
 Attaching is an action applying to one thing and one visible thing.  Understand the command "attach" as something new.  Understand "attach [something] to [something] " as attaching
