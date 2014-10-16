@@ -5,7 +5,7 @@ say "For many years your people have been made to suffer under the rule of King 
  
 The Kingdom is a region.
 
-The Lonely Dragon Inn is a room. "Your journey is finally reaching its end.  Only one more obstacle remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."  A sword is here. An ancient spellbook is here. 
+The Lonely Dragon Inn is a room. "Your journey is finally reaching its end.  Only one more obstacle remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."  A sword is here. An ancient spellbook is here. A helmet is here. The description is "Definitely belongs to the knight in the main chamber.".
 
 The Inn door is a door. It is scenery. It is east of the Lonely Dragon Inn and west of the Outer Village. "An old wooden door with a rusty handle. "
 
@@ -41,7 +41,7 @@ Inhaling is an action applying to a thing.  Understand "inhale [something] " as 
 
 Attaching is an action applying to one thing and one visible thing.  Understand the command "attach" as something new.  Understand "attach [something] to [something] " as attaching
 
-The East Chamber is a room. It is east of the Main Chamber.  "You notice a shining helmet in the corner of your eye, and a mirror next to it." A mirror is here. The description is "A very dirty mirror, needs to be polished." A helmet is here. The description is "Definitely belongs to the knight in the main chamber.".
+The East Chamber is a room. It is east of the Main Chamber.  "You notice a shining helmet in the corner of your eye, and a mirror next to it." A mirror is here. The description is "A very dirty mirror, needs to be polished."
 
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
