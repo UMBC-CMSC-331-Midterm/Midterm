@@ -2,21 +2,26 @@
 
 When play begins:
 say "For many years your people have been made to suffer under the rule of King Titus. Though he was once a kind, merciful king, he has since started a great purge of those who practice magic. He has become convinced that all things magical are evil and magic in this word is all but extinct. Yet you were born with this gift...this burden. For the wrong person to see you use magic would mean certain death. You have not yet come to realize the purpose of these powers but in time your power will grow and so will your understanding of how to use it. Your destiny awaits...". 
- 
+
 The Kingdom is a region.
+
+Pondering is an action applying to nothing. Understand the command "ponder" as something new. Understand "ponder the meaning of life" as pondering.
+
+After pondering:
+	say "There is no time to think about philosophical topics.".
 
 The Lonely Dragon Inn is a room. "Your journey is finally reaching its end.  Only one more obstacle remains in your way, though it will be your toughest yet.  Legends told of an ancient artifact with the power to defeat King Titus, locked in a cave near a remote village, forgotten by time.  You must gather yourself for this one last challenge.  As you reflect on everything that has happened, maybe the Village Elder has some last minute advice for you."  A sword is here. An ancient spellbook is here. A helmet is here. The description is "Definitely belongs to the knight in the main chamber.".
 
 The Inn door is a door. It is scenery. It is east of the Lonely Dragon Inn and west of the Outer Village. "An old wooden door with a rusty handle. "
 
- The Outer Village is a room. It is in the Kingdom. "An old village which has not been disturbed, not even during the great purge.  You can feel the magic here, the scent of wolfsbane and nim root fill the stale air as the apothecary makes fresh potions." 
+The Outer Village is a room. It is in the Kingdom. "An old village which has not been disturbed, not even during the great purge.  You can feel the magic here, the scent of wolfsbane and nim root fill the stale air as the apothecary makes fresh potions." 
 
 A edelweiss is in the Outer Village. "It appears to be some sort of crystal.  You have never felt so much magic in such a small object before."
- 
- The Village Elder is a man. Village Elder is in the Outer Village. The description of Village Elder is "Old as shit!"
- 
- After asking Village Elder about "Advice":
- 	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice, now you must head up the great mountain towards the cave."
+
+The Village Elder is a man. Village Elder is in the Outer Village. The description of Village Elder is "Old as shit!"
+
+After asking Village Elder about "Advice":
+	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice, now you must head up the great mountain towards the cave."
 
 The Fallen Kings is a region. Cave-Area, and Main Chamber are in the Fallen Kings.
 
@@ -33,7 +38,7 @@ Lighting is an action applying to one thing. Understand the command "light" as s
 
 After lighting torch:
 	say "The torch comes to life and it's flames light the way."
-	
+
 After lighting fire:
 	say "Smoke starts to rise and then flames begin to flicker.  You can feel the heat from the fire start to warm you."
 
