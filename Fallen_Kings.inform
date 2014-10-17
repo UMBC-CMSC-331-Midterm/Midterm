@@ -53,7 +53,10 @@ Lighting is an action applying to one thing. Understand the command "light" as s
 After lighting torch:
 	say "The torch comes to life and it's flames light the way."
 
-After lighting fire:
+After lighting fire pit:
+	say "Smoke starts to rise and then flames begin to flicker.  You can feel the heat from the fire start to warm you."
+	
+After lighting fire place:
 	say "Smoke starts to rise and then flames begin to flicker.  You can feel the heat from the fire start to warm you."
 
 Inhaling is an action applying to a thing.  Understand "inhale [something] " as inhaling.
@@ -69,6 +72,6 @@ After attaching:
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
 After polishing mirror:
-	say "You see a vision in the mirror...";
+	say "You see a vision in the mirror, you see King Titus in the Hall of Fallen Kings only to realize you are the Man in the Mirror. (Man in the Mirror by Michael Jackson starts playing)";
 	end the story saying "To be continued...".
 	
