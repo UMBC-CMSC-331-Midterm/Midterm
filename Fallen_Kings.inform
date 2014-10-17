@@ -38,7 +38,7 @@ The Northern woods is a room.  It is north of the Cave-Area. "All kinds of creat
 
 The Lake of Fire is a room. It is east of the Northern woods. "The lake seems to have a red glow about it...but maybe that's just all the FIRE that is surrounding it.  It is said that the fire is dragons breath and can only be extinguished by powerful magic.". A duck is here. It is edible.
 
-The Hall of Fallen Kings is a room. It is north of the Lake of Fire. "No one has entered this hall in a thousand years, a time when magic ruled the land.  It is dark and cobb webs litter the hall but you can still see the glory this once great hall had. But alas time is short...". A cauldron is here. It is a open container. A fire place is here. It is a open container. A mirror is here. The description is "A very dirty mirror, needs to be polished.".
+The Hall of Fallen Kings is a room. It is north of the Lake of Fire. "No one has entered this hall in a thousand years, a time when magic ruled the land.  It is dark and cobb webs litter the hall but you can still see the glory this once great hall had. But alas time is short...". A cauldron is here. It is a open container. Another fire pit is here. It is a open container. A mirror is here. The description is "A very dirty mirror, needs to be polished.".
 
 Lighting is an action applying to one thing. Understand the command "light" as something new. Understand "light [something]"  as lighting.
 
@@ -51,6 +51,9 @@ After lighting fire:
 Inhaling is an action applying to a thing.  Understand "inhale [something] " as inhaling.
 
 Attaching is an action applying to one thing and one visible thing.  Understand the command "attach" as something new.  Understand "attach [something] to [something] " as attaching.
+
+After attaching:
+	say "Now the scary dude has armor!"
 
 Polishing is an action applying to one visible thing.
 Before examining the mirror, try polishing the mirror.
