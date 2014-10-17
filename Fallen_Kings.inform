@@ -23,7 +23,7 @@ The Village Elder is a man. Village Elder is in the Outer Village. The descripti
 After asking Village Elder about "Advice":
 	say " 'Take the edelweiss, it holds great power. You will know what to do with it when the time comes. Don't die.' You thank the Village Elder for his wonderful advice, now you must head up the great mountain towards the cave."
 
-The Fallen Kings is a region. Cave-Area, Main Chamber, and Northern woods are in the Fallen Kings.
+The Fallen Kings is a region. Cave-Area, Main Chamber, Northern woods and Lake of Fire are in the Fallen Kings.
 
 The Cave-Area is room.  It is above the Outer Village. "Surrounded by darkness in the woods of the Fallen Kings you approach the cave entrance.  You sense a powerful magical being nearby but cannot tell if it means you harm or not."
 
@@ -32,9 +32,11 @@ Before entering the Main Chamber, try entering the Cave Entrance.
 After entering the Cave Entrance:
 	say "The path behind collapses and is sealed.  There is no way back."	
 
-The Main Chamber is a room.  "You see a tablet on the wall in front of you.  A statue of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inhale the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A cauldron is here.  It is a closed openable container. An fire is here. it is a open container. A lit torch is here. A mirror is here. The description is "A very dirty mirror, needs to be polished.". A ginger is here. A duck is here. It is edible.
+The Main Chamber is a room.  "You see a tablet on the wall in front of you.  A statue of a knight is by it, missing his helmet.  You notice a cauldron, a torch, and a unlit fire near the knight as well.  Maybe the tablet has answers.  You also notice a passage to your left and right." A tablet is here. The description is "It reads: Inhale the fumes of ginger, burning fires of edelweiss, return to the Knight his helmet and say the magic word.  Only then will the way to what you seek be revealed." A statue is here. The description is "Scary looking dude.  Wonder what the magic word is?". A fire pit is here. It is a open container. A torch is here.
 
 The Northern woods is a room.  It is north of the Cave-Area. "All kinds of creatures are said to roam these woods no man has traveled these woods alone and survived...and yet as you continue you see the figure of a lonely knight." A Knight is a man. It is here. It is scenery. "His eyes are sunken and his skin white as snow, he stands in silence as you approach."
+
+The Lake of Fire is a room. It is east of the Northern woods. "The lake seems to have a red glow about it...but maybe that's just all the FIRE that is surrounding it.  It is said that the fire is dragons breath and can only be extinguished by powerful magic.". A duck is here. It is edible.
 
 Lighting is an action applying to one thing. Understand the command "light" as something new. Understand "light [something]"  as lighting.
 
